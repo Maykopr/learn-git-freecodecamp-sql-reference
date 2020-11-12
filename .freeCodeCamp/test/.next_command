@@ -163,3 +163,4 @@ cd sql_reference
 git status
 git branch
 git branch -d feat/add-create-table-reference
+git branch
