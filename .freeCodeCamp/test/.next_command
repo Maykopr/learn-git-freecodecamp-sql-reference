@@ -385,3 +385,9 @@ git branch
 git checkout main
 git merge feat/add-column-references
 git branch -d feat/add-column-references
+clear
+git branch
+git checkout fix/add-missing-rename-references
+git checkout feat/add-create-reference
+git checkout feat/add-create-table-reference
+git checkout fix/add-missing-rename-references
