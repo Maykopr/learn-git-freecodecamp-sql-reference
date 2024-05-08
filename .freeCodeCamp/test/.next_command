@@ -286,3 +286,5 @@ git commit -m "feat: add foreign key reference"
 clear
 git branch
 git checkout feat/add-more-row-references
+git diff
+git add .
