@@ -252,3 +252,4 @@ git stash show 0
 git stash show 1
 git stash show stash@{0}
 git stash show stash@{1}
+git stash show stash@{1} -p
