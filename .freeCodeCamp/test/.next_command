@@ -410,3 +410,5 @@ clear
 git branch
 git merge fix/add-missing-rename-references
 git branch
+git branch -d feat/add-create-table-reference
+git branch -d fix/add-missing-rename-references
