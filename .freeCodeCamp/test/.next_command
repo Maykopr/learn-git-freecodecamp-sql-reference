@@ -59,3 +59,5 @@ git status
 ls --color=auto -a
 cd sql_reference
 git status
+clear
+git checkout -b main
