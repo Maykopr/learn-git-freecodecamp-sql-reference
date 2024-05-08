@@ -403,3 +403,5 @@ git commit -m "fix: add missing rename table reference"
 git log --oneline -5
 clear
 git rebase --interactive HEAD~2
+git log --oneline -1
+git log -1
