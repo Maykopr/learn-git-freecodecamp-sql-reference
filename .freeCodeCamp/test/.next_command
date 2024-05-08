@@ -248,3 +248,7 @@ git stash apply
 git stash list
 git stash
 git stash list
+git stash show 0
+git stash show 1
+git stash show stash@{0}
+git stash show stash@{1}
