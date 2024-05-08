@@ -346,3 +346,5 @@ git diff
 __vsc_prompt_cmd_original
 git add .
 git commit -m "fix: add missing rename database reference"
+git branch
+git checkout feat/add-column-references
