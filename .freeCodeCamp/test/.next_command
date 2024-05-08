@@ -104,3 +104,6 @@ git status
 ls --color=auto
 cd sql_reference
 git status
+clear
+git status
+git diff
