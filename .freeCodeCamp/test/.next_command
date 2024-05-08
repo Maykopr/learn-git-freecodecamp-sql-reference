@@ -417,3 +417,4 @@ clear
 git checkout -b feat/add-gitignore
 touch .env
 nano .env
+git status
