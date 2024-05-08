@@ -392,3 +392,7 @@ git checkout feat/add-create-reference
 git checkout feat/add-create-table-reference
 git checkout fix/add-missing-rename-references
 git rebase main
+git log -5
+__vsc_prompt_cmd_original
+clear
+git log --oneline -5
