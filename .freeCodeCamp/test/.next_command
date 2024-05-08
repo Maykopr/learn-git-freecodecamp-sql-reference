@@ -206,3 +206,6 @@ clear
 git checkout main
 git checkout -b feat/add-insert-row-reference
 git branch
+git status
+git diff
+git add .
