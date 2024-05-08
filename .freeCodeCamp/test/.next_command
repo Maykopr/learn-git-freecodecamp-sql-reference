@@ -422,3 +422,4 @@ touch .gitignore
 git status
 nano .gitignore
 git status
+git add .
