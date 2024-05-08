@@ -353,3 +353,5 @@ git status
 git add .
 git status
 git rebase --continue
+clear
+git status
