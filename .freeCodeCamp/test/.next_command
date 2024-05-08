@@ -396,3 +396,6 @@ git log -5
 __vsc_prompt_cmd_original
 clear
 git log --oneline -5
+git diff
+git diff
+git add .
