@@ -309,3 +309,5 @@ git status
 git commit
 git status
 git branch -d feat/add-more-row-references
+clear
+git checkout -b fix/add-missing-rename-references
