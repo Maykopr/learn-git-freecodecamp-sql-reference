@@ -273,3 +273,5 @@ git checkout feat/add-column-references
 git rebase main
 git status
 git add.
+git add .
+git status
