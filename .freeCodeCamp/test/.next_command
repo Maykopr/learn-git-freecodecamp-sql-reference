@@ -360,3 +360,4 @@ git add .
 git status
 clear
 git commit -m "feat: add unique reference"
+git reset HEAD~1
