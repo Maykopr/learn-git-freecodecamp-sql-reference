@@ -355,3 +355,5 @@ git status
 git rebase --continue
 clear
 git status
+git diff
+git add .
