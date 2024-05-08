@@ -199,3 +199,6 @@ git status
 git diff
 git add .
 git commit -m "feat: add drop column reference"
+git log
+__vsc_prompt_cmd_original
+git log --oneline
