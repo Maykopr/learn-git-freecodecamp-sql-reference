@@ -421,3 +421,4 @@ git status
 touch .gitignore
 git status
 nano .gitignore
+git status
