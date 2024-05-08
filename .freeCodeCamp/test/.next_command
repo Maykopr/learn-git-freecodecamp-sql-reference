@@ -381,3 +381,5 @@ git rebase --interactive HEAD~5
 git log --oneline
 git log -l
 git log -1
+git branch
+git checkout main
