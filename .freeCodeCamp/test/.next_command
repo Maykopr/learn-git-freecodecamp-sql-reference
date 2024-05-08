@@ -400,3 +400,4 @@ git diff
 git diff
 git add .
 git commit -m "fix: add missing rename table reference"
+git log --oneline -5
