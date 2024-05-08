@@ -237,3 +237,4 @@ git status
 __vsc_prompt_cmd_original
 git stash
 git status
+git stash list
