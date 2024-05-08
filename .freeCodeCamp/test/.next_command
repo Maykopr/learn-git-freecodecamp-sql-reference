@@ -290,3 +290,6 @@ git diff
 git add .
 git commit -m "feat: add delete row reference"
 git checkout main
+git branch
+git merge feat/add-column-references
+git merge feat/add-more-row-references
