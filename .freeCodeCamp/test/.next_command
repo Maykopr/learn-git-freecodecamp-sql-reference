@@ -195,3 +195,6 @@ git log --oneline
 git branch
 git rebase main
 git log --oneline
+git status
+git diff
+git add .
