@@ -409,3 +409,4 @@ git checkout main
 clear
 git branch
 git merge fix/add-missing-rename-references
+git branch
