@@ -205,3 +205,4 @@ git log --oneline
 clear
 git checkout main
 git checkout -b feat/add-insert-row-reference
+git branch
