@@ -428,3 +428,4 @@ touch sample.env
 git status
 nano sample.env
 git add .
+git commit -m "feat: add sample.env"
