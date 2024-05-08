@@ -129,3 +129,4 @@ git log
 git log --oneline
 git checkout main
 git log --oneline
+git branch
