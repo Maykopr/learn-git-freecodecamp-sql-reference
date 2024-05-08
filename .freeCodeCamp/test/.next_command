@@ -246,3 +246,4 @@ git stash show
 git stash show -p
 git stash apply
 git stash list
+git stash
