@@ -108,3 +108,4 @@ clear
 git status
 git diff
 git add sql_reference.json
+git status
