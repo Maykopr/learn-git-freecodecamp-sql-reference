@@ -420,3 +420,4 @@ nano .env
 git status
 touch .gitignore
 git status
+nano .gitignore
