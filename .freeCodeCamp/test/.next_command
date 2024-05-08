@@ -293,3 +293,19 @@ git checkout main
 git branch
 git merge feat/add-column-references
 git merge feat/add-more-row-references
+git status
+git merge --abort
+git branch
+git log --oneline
+git log
+__vsc_prompt_cmd_original
+git reset --hard 71bbe2905ccf7a6fa6e5411680c221a93c4f7fd1
+git reset --hard 7e7078c7be7855d6cbf5b6a0b34e6654946ea8ff
+git branch
+git merge feat/add-more-row-references
+git branch
+git branch -d feat/add-more-row-references
+git status
+git commit
+git status
+git branch -d feat/add-more-row-references
