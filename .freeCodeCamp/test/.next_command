@@ -180,3 +180,4 @@ git add .
 git commit -m "feat: add column reference"
 git log --oneline
 git checkout main
+git checkout -b fix/create-table-syntax
